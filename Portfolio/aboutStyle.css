@@ -1,0 +1,40 @@
+body {
+    background-color: lightpink;
+}
+a{
+    color: mediumpurple;
+}
+#p{
+    box-sizing: border-box;
+    color: navy;
+    font-size: 22px;
+    text-align: left;
+    width: 62%;
+    padding: 25px;
+    border-width: 10px;
+    float: left;
+    margin: auto;
+
+}
+#ugly {
+    box-sizing: border-box;
+    float:right;
+    width: 400px;
+    height: 400px;
+    padding: 15px;
+    margin: auto;
+}
+#div {
+    border:solid;
+    border-color: navy;
+    padding: 30px;
+    height: 400px;
+    margin: 60px;
+    background: lightblue;
+}
+.rotate{
+    transform: rotate(90deg);
+}
+a:hover { 
+    color: white;
+}

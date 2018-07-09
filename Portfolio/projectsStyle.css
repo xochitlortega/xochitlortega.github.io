@@ -1,0 +1,12 @@
+body {
+    background-color: lightpink;
+}
+a{
+    color: mediumpurple;
+}
+p{
+    color:navy;
+}
+a:hover { 
+    color: white;
+}
